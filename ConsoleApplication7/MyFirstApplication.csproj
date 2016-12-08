@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D450A45A-AC90-4AA2-A467-3CE2A0C850F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleApplication7</RootNamespace>
+    <AssemblyName>ConsoleApplication7</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Characters\Character.cs" />
+    <Compile Include="Characters\Bowman.cs" />
+    <Compile Include="Weapons\Bow.cs" />
+    <Compile Include="Factories\CharacterFactory.cs" />
+    <Compile Include="Extensions\MyCharacterExtension.cs" />
+    <Compile Include="Weapons\IWeapon.cs" />
+    <Compile Include="LongNameException.cs" />
+    <Compile Include="FCharacter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCharacter.Designer.cs">
+      <DependentUpon>FCharacter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMonster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMonster.Designer.cs">
+      <DependentUpon>FMonster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Party.cs" />
+    <Compile Include="Races.cs" />
+    <Compile Include="Weapons\Unarmed.cs" />
+    <Compile Include="Weapons\Dagger.cs" />
+    <Compile Include="Monsters\Imp.cs" />
+    <Compile Include="IFight.cs" />
+    <Compile Include="Monsters\Ogre.cs" />
+    <Compile Include="Weapons\Sword.cs" />
+    <Compile Include="Characters\Swordsman.cs" />
+    <Compile Include="IHaveASword.cs" />
+    <Compile Include="IHaveABow.cs" />
+    <Compile Include="Monsters\Monster.cs" />
+    <Compile Include="Weapons\Weapon.cs" />
+    <Compile Include="Creature.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Monsters\Witch.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FCharacter.resx">
+      <DependentUpon>FCharacter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMonster.resx">
+      <DependentUpon>FMonster.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,26 @@
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.csproj.GenerateResource.Cache
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.FCharacter.resources
+C:\Users\HP-PC\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.FMonster.resources
+C:\Users\Ivan\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\Ivan\Desktop\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.FCharacter.resources
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.FMonster.resources
+C:\Users\Ivan\Desktop\C#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.FCharacter.resources
+C:\Users\Ivan\Desktop\ASP.Net MVC\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\MyFirstApplication.FMonster.resources

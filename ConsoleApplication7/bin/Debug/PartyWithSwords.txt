@@ -1,0 +1,63 @@
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
+___________________________

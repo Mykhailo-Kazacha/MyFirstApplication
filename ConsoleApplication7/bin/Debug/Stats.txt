@@ -1,0 +1,7 @@
+Name = rrrr
+Race = human
+Strength = 10
+Agility = 10
+MaxHealth = 50
+CurrentHealth = 50
+Mana = 25
